@@ -11,7 +11,7 @@ This project demonstrates UI automation testing for a telecom customer portal us
 The project automates telecom-related workflows such as:
 
 - Customer creation
-- Tariff plan creation
+- Tariff plan selection
 ---
 
 # 🌐 Application Under Test
