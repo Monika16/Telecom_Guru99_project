@@ -18,4 +18,4 @@ def add_customer(page:Page):
     data = table_rows[0].locator("td").all()
     customer_id = data[1].locator("h3").inner_text()
 
-    return customer_id
+    yield customer_id
